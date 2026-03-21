@@ -1,4 +1,4 @@
-# 💫 About Me:
+ 💫 About Me:
 Hi, I'm Dinesh Seervi<br><br>💻 Computer Engineering Student | 🤖 AI & ML Enthusiast | 🚀 Future Software Engineer<br><br>Passionate about building intelligent systems and real-world applications using AI, Machine Learning, and modern web technologies. Currently exploring the next generation of AI — Agentic AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) — to create smarter, autonomous solutions.<br><br>🚀 About Me<br><br>🔭 I’m currently working on AI/ML projects, web applications, and real-world software systems<br><br>🌱 I’m currently learning Machine Learning, Deep Learning, Agentic AI, LLMs, and RAG<br><br>🤖 Exploring Agentic AI systems, LLM applications, and intelligent automation<br><br>👯 I’m looking to collaborate on Open Source, AI projects, LLM apps, and innovative tech solutions<br><br>🤔 I’m looking for help with advanced ML concepts, Agentic workflows, and production deployment<br><br>💬 Ask me about Python, Java, Data Science, Web Development, AI, LLMs, and RAG pipelines
 
 
