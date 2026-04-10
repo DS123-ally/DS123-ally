@@ -13,7 +13,7 @@ Hi, I'm Dinesh Seervi<br><br>💻 Computer Engineering Student | 🤖 AI & ML En
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DS123-ally&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DS123-ally&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://komarev.com/ghpvc/?username=DS123-ally&label=Profile%20Views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
