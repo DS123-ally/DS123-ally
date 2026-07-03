@@ -143,15 +143,6 @@ Portfolio website showcasing
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DS123-ally&theme=tokyonight&no-frame=true&margin-w=8"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
