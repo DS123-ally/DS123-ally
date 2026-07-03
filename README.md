@@ -1,123 +1,134 @@
+# <div align="center">👋 Hi, I'm Dinesh Seervi</div>
+
 <div align="center">
 
-# 👋 Hello, I'm Dinesh Seervi
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Agentic+AI+Developer;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;Full+Stack+Developer;Future+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=00C2FF\&center=true\&vCenter=true\&width=750\&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Agentic+AI+Developer;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;Full+Stack+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Computer Engineering Student from India 🇮🇳
+🎓 **Computer Engineering Student** from India 🇮🇳
 
-I'm passionate about building intelligent software using **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Large Language Models (LLMs)**, **RAG**, **Agentic AI**, and **Full Stack Development**.
+I am passionate about building intelligent software using **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, and **Full Stack Development**.
 
-- 🔭 Currently building AI-powered applications and Full Stack projects
-- 🌱 Learning Machine Learning, Deep Learning, LLMs, RAG, Agentic AI & MLOps
-- 🤖 Exploring Multi-Agent AI Systems
-- 👯 Looking to collaborate on AI, Open Source & Full Stack projects
-- 💬 Ask me about Python, Java, AI, ML, LLMs, RAG, Web Development
-- ⚡ Goal: Become an AI Engineer & Software Engineer
+I enjoy transforming ideas into production-ready applications that solve real-world problems.
+
+* 🔭 Currently building AI-powered applications and full-stack software
+* 🌱 Learning Machine Learning, Deep Learning, LLMs, RAG, Agentic AI & MLOps
+* 🤖 Exploring Multi-Agent AI Systems and AI Automation
+* 💬 Ask me about Python, Java, AI, Machine Learning, LLMs, RAG & Web Development
+* 👯 Open to AI, Open Source and Software Development collaborations
+* ⚡ Goal: Become an AI Engineer & Software Engineer
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ## 💻 Programming Languages
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts"/>
 </p>
 
-## 🌐 Frontend
+## 🌐 Frontend Development
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs"/>
 </p>
 
-## ⚙ Backend & Database
+## ⚙️ Backend Development
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 </p>
 
-## 🤖 AI • ML • Data Science
+## 🗄️ Databases
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-### Currently Learning
+## ☁️ Cloud & Deployment
 
-- 🤖 Agentic AI
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🔗 LangGraph
-- ⚡ MCP
-- 🚀 AI Workflows
-- ☁️ MLOps
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,vercel"/>
+</p>
+
+## 🤖 AI / Machine Learning
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Keras
+* Machine Learning
+* Deep Learning
+* LLMs
+* RAG
+* Agentic AI
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 Multi-Agent AI Coding Assistant
-
-✔ Code Generation
-
-✔ Bug Detection
-
-✔ Repository Analysis
-
-✔ Documentation Generation
-
-✔ Powered by Gemma
+| 🚀 Project                         | Description                                                                      |
+| ---------------------------------- | -------------------------------------------------------------------------------- |
+| 🤖 Multi-Agent AI Coding Assistant | AI-powered coding assistant using Gemma, multiple agents and modern AI workflows |
+| 📄 LLM Document Processing System  | Intelligent document processing with FastAPI, Streamlit and LLM integration      |
+| 💰 AI Salary Prediction System     | Machine Learning project with SHAP explainability and interactive dashboard      |
+| 🌐 Project Vault                   | Personal portfolio showcasing AI, Web and Machine Learning projects              |
+| 🛒 Amazon & Flipkart Clone         | Responsive e-commerce websites built using HTML, CSS and JavaScript              |
 
 ---
 
-### 📄 LLM Document Processing System
+# 📚 Currently Learning
 
-- PDF Processing
-- FastAPI
-- Streamlit
-- Email Automation
-- AI Summarization
-
----
-
-### 💰 AI Salary Prediction
-
-- Machine Learning
-- SHAP Explainability
-- Feature Importance
-- Streamlit Dashboard
+```text
+🤖 Agentic AI
+🧠 Large Language Models (LLMs)
+🔍 Retrieval-Augmented Generation (RAG)
+🔗 LangGraph
+⚡ Model Context Protocol (MCP)
+☁️ MLOps
+🐳 Docker
+☸️ Kubernetes
+⚙️ FastAPI
+```
 
 ---
 
-### 🌐 Project Vault
+# 🎯 2026 Goals
 
-Portfolio website showcasing
+* ✅ Master Machine Learning
+* ✅ Learn Deep Learning
+* ✅ Build Production-Ready AI Applications
+* ✅ Contribute to Open Source
+* ✅ Deploy AI Projects on Cloud
+* ✅ Crack an AI / Software Engineering Internship
+* ✅ Publish Multiple AI Projects
 
-- AI Projects
-- Web Development
-- Machine Learning
-- Games
+---
+
+# 💡 Areas of Interest
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 📚 Deep Learning
+* 💬 Large Language Models
+* 🔍 Retrieval-Augmented Generation
+* ⚙️ Agentic AI
+* 🌐 Full Stack Development
+* ☁️ Cloud Computing
 
 ---
 
@@ -143,7 +154,6 @@ Portfolio website showcasing
 
 ---
 
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -158,9 +168,21 @@ Portfolio website showcasing
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh-seervi-00418532b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dinesh-seervi-00418532b)
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshseervi1208@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dineshseervi1208@gmail.com)
+
+</div>
+
+---
+
+# 📈 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=DS123-ally\&style=for-the-badge\&color=0e75b6)
+
+![Followers](https://img.shields.io/github/followers/DS123-ally?style=social)
 
 </div>
 
@@ -168,10 +190,12 @@ Portfolio website showcasing
 
 <div align="center">
 
-### ⭐ "Building Intelligent AI Systems for the Future"
+## 💡 Quote
 
-![](https://komarev.com/ghpvc/?username=DS123-ally&style=for-the-badge&color=blue)
+> **"Building intelligent software today for the AI-powered world of tomorrow."**
 
-![Followers](https://img.shields.io/github/followers/DS123-ally?style=social)
+⭐ **Thanks for visiting my GitHub Profile!**
+
+If you like my work, don't forget to ⭐ my repositories.
 
 </div>
