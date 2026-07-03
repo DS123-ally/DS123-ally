@@ -1,20 +1,186 @@
- 💫 About Me:
-Hi, I'm Dinesh Seervi<br><br>💻 Computer Engineering Student | 🤖 AI & ML Enthusiast | 🚀 Future Software Engineer<br><br>Passionate about building intelligent systems and real-world applications using AI, Machine Learning, and modern web technologies. Currently exploring the next generation of AI — Agentic AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) — to create smarter, autonomous solutions.<br><br>🚀 About Me<br><br>🔭 I’m currently working on AI/ML projects, web applications, and real-world software systems<br><br>🌱 I’m currently learning Machine Learning, Deep Learning, Agentic AI, LLMs, and RAG<br><br>🤖 Exploring Agentic AI systems, LLM applications, and intelligent automation<br><br>👯 I’m looking to collaborate on Open Source, AI projects, LLM apps, and innovative tech solutions<br><br>🤔 I’m looking for help with advanced ML concepts, Agentic workflows, and production deployment<br><br>💬 Ask me about Python, Java, Data Science, Web Development, AI, LLMs, and RAG pipelines
+<div align="center">
 
+# 👋 Hello, I'm Dinesh Seervi
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dinesh-seervi-00418532b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshseervi1208@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Agentic+AI+Developer;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;Full+Stack+Developer;Future+AI+Engineer)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DS123-ally&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DS123-ally&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DS123-ally&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-![Visitors](https://komarev.com/ghpvc/?username=DS123-ally&label=Profile%20Views&color=0e75b6&style=flat)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
 
+🎓 Computer Engineering Student from India 🇮🇳
 
+I'm passionate about building intelligent software using **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Large Language Models (LLMs)**, **RAG**, **Agentic AI**, and **Full Stack Development**.
+
+- 🔭 Currently building AI-powered applications and Full Stack projects
+- 🌱 Learning Machine Learning, Deep Learning, LLMs, RAG, Agentic AI & MLOps
+- 🤖 Exploring Multi-Agent AI Systems
+- 👯 Looking to collaborate on AI, Open Source & Full Stack projects
+- 💬 Ask me about Python, Java, AI, ML, LLMs, RAG, Web Development
+- ⚡ Goal: Become an AI Engineer & Software Engineer
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Programming Languages
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+</p>
+
+## 🌐 Frontend
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
+</p>
+
+## ⚙ Backend & Database
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+</p>
+
+## 🤖 AI • ML • Data Science
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45"/>
+</p>
+
+### Currently Learning
+
+- 🤖 Agentic AI
+- 🧠 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🔗 LangGraph
+- ⚡ MCP
+- 🚀 AI Workflows
+- ☁️ MLOps
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 Multi-Agent AI Coding Assistant
+
+✔ Code Generation
+
+✔ Bug Detection
+
+✔ Repository Analysis
+
+✔ Documentation Generation
+
+✔ Powered by Gemma
+
+---
+
+### 📄 LLM Document Processing System
+
+- PDF Processing
+- FastAPI
+- Streamlit
+- Email Automation
+- AI Summarization
+
+---
+
+### 💰 AI Salary Prediction
+
+- Machine Learning
+- SHAP Explainability
+- Feature Importance
+- Streamlit Dashboard
+
+---
+
+### 🌐 Project Vault
+
+Portfolio website showcasing
+
+- AI Projects
+- Web Development
+- Machine Learning
+- Games
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DS123-ally&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS123-ally&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DS123-ally&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DS123-ally&theme=tokyonight&no-frame=true&margin-w=8"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DS123-ally&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh-seervi-00418532b)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshseervi1208@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "Building Intelligent AI Systems for the Future"
+
+![](https://komarev.com/ghpvc/?username=DS123-ally&style=for-the-badge&color=blue)
+
+![Followers](https://img.shields.io/github/followers/DS123-ally?style=social)
+
+</div>
