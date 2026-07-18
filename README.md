@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 **Computer Engineering Student** from India 🇮🇳
+🎓 **Computer Engineering Student**
 
 I am passionate about building intelligent software using **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, and **Full Stack Development**.
 
@@ -60,13 +60,7 @@ I enjoy transforming ideas into production-ready applications that solve real-wo
 ## 🤖 AI / Machine Learning
 
 * Python
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* Keras
 * Machine Learning
-* Deep Learning
 * LLMs
 * RAG
 * Agentic AI
@@ -123,7 +117,6 @@ I enjoy transforming ideas into production-ready applications that solve real-wo
 
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
-* 📚 Deep Learning
 * 💬 Large Language Models
 * 🔍 Retrieval-Augmented Generation
 * ⚙️ Agentic AI
