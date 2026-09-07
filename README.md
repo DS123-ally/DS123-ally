@@ -12,7 +12,7 @@
 
 🎓 **Computer Engineering Student**
 
-I am passionate about building intelligent software using **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, and **Full Stack Development**.
+I am passionate about building intelligent software using **Artificial Intelligence**, **Machine Learning**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, and **Full Stack Development**.
 
 I enjoy transforming ideas into production-ready applications that solve real-world problems.
 
