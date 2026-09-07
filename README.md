@@ -111,15 +111,6 @@ I enjoy transforming ideas into production-ready applications that solve real-wo
 * ☁️ Cloud Computing
 
 
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DS123-ally&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
 ---
 
 # 🌐 Connect With Me
