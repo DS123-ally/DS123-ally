@@ -99,19 +99,6 @@ I enjoy transforming ideas into production-ready applications that solve real-wo
 ⚙️ FastAPI
 ```
 
----
-
-# 🎯 2026 Goals
-
-* ✅ Master Machine Learning
-* ✅ Learn Deep Learning
-* ✅ Build Production-Ready AI Applications
-* ✅ Contribute to Open Source
-* ✅ Deploy AI Projects on Cloud
-* ✅ Crack an AI / Software Engineering Internship
-* ✅ Publish Multiple AI Projects
-
----
 
 # 💡 Areas of Interest
 
