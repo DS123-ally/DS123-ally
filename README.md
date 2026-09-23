@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi, I'm Dinesh Seervi</div>
+# <div align="center">👋 Hello I'm Dinesh Seervi</div>
 
 <div align="center">
 
@@ -8,20 +8,20 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎓 **Computer Engineering Student**
+ **Computer Engineering Student**
 
 I am passionate about building intelligent software using **Artificial Intelligence**, **Machine Learning**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, and **Full Stack Development**.
 
 I enjoy transforming ideas into production-ready applications that solve real-world problems.
 
-* 🔭 Currently building AI-powered applications and full-stack software
-* 🌱 Learning Machine Learning, Deep Learning, LLMs, RAG, Agentic AI & MLOps
-* 🤖 Exploring Multi-Agent AI Systems and AI Automation
-* 💬 Ask me about Python, Java, AI, Machine Learning, LLMs, RAG & Web Development
-* 👯 Open to AI, Open Source and Software Development collaborations
-* ⚡ Goal: Become an AI Engineer & Software Engineer
+*  Currently building AI-powered applications and full-stack software
+*  Learning Machine Learning, Deep Learning, LLMs, RAG, Agentic AI & MLOps
+*  Exploring Multi-Agent AI Systems and AI Automation
+*  Ask me about Python, Java, AI, Machine Learning, LLMs, RAG & Web Development
+*  Open to AI, Open Source and Software Development collaborations
+*  Goal: Become an AI Engineer & Software Engineer
 
 ---
 
